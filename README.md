@@ -4,7 +4,7 @@ This repository contains all the data and scripts required to fully reproduce al
 
 Data and Code also available on Zenodo:
 
-TBC
+[![DOI](https://zenodo.org/badge/588886587.svg)](https://zenodo.org/badge/latestdoi/588886587)
 
 Getting Started
 ---------------
