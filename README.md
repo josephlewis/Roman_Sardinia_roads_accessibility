@@ -2,6 +2,10 @@
 
 This repository contains all the data and scripts required to fully reproduce all analyses presented in the paper "Sardinia and the Roman Road System: Accessibility Before and After the ‘Augustan Revolution’" authored by Lewis, J.
 
+Data and Code also available on Zenodo:
+
+TBC
+
 Getting Started
 ---------------
 
