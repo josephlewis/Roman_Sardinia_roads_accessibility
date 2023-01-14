@@ -13,8 +13,8 @@ if(!file.exists(paste0("./Data/SARDINIA_", agg_val*10,"m.tif"))) {
     stop("agg_val must have a value of 2 or greater")
     }
   
-  library(tinitalyR, lib = "/local/filespace/workspace/alexis/Joe/phd/packages")
-  library(raster, lib = "/local/filespace/workspace/alexis/Joe/phd/packages")
+  library(tinitalyR)
+  library(raster)
   
   tiles <- c("w45540_s10", "w45040_s10", "w44540_s10",
            "w44040_s10", "w43040_s10", "w45045_s10",
